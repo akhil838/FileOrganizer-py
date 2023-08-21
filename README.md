@@ -4,7 +4,7 @@ A Simple Python tool to organize all you docs, pictures, videos in one go.
 
 ## Usage
 
-* Run the program.
+* Run the [program](FOrganize.py).
 
 * Enter the path of the Folder that you want to Organize
 
